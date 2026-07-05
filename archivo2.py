@@ -75,7 +75,7 @@ def _evaluar(nodo):
 
 
 def main() -> None:
-    nombre = input('¿Cuál es tu nombre? ').strip() or 'Usuario'
+    nombre = input('Yeorkys Rosario').strip() or 'Usuario'
     print(f'Hola {nombre}, esta es tu calculadora simple.')
     print('Usa operadores: + - * / ** % y funciones: sqrt, sin, cos, tan, log, exp, abs')
     print('Escribe "salir" o "q" para terminar.')
